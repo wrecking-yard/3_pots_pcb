@@ -125,16 +125,6 @@
 		(layer "F.SilkS")
 		(uuid "8d7dfaf1-aa8e-431e-a2d7-23838f0b8b15")
 	)
-	(fp_line
-		(start -9 -0.2)
-		(end -9 10.2)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "f5051bc1-a4d0-44e9-b265-fcebf0085f0f")
-	)
 	(fp_rect
 		(start -19.1 0)
 		(end 0.25 10)
